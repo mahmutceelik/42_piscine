@@ -1,4 +1,4 @@
-"void	ft_putchar(char c);
+void	ft_putchar(char c);
 
 void	ft_sym_arr(char *sym, char open_sym, char close_sym)
 {
