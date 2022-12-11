@@ -81,4 +81,4 @@
     union
 
 ## Sınav Soruları ve Çözümleri için Daha Fazlası
-    http://nigal.freeshell.org/42/exam-solutions/    
+    [Sınav için Daha fazlası](http://nigal.freeshell.org/42/exam-solutions/)    
