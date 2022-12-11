@@ -1,7 +1,8 @@
 # Bilinmesi Gerekenler
 
 ## C programlama dili adım adım görselleştirme
-    https://pythontutor.com/c.html#mode=edit
+
+[Görselleştirme](https://pythontutor.com/c.html#mode=edit)
 
 ## C projesi Nasıl Derlenir?
     Projelerinizi çalıştırırken veya sınavda cevabınızı çıktısını almak için derleme komutu vardır.
