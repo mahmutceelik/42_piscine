@@ -14,9 +14,9 @@
 [Bilgisayar Kavramları - Programlama Giriş](https://www.youtube.com/playlist?list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY)
     
 [Google DSC Galatasaray - C Eğitim Serisi CES](https://www.youtube.com/playlist?list=PL3gO6Y7RMb3mf6rvrVaDtpaPl3KKMnazx)
-
-    Her Yönüyle C -Tevfik Kızılören --Kodlab
-    C Programlamanın Temelleri -Prof. Dr.Timur Karaçay --Abaküs Kitap
+    ### Kitap
+        Her Yönüyle C -Tevfik Kızılören --Kodlab
+        C Programlamanın Temelleri -Prof. Dr.Timur Karaçay --Abaküs Kitap
 
 ## Değerlendirme Sistemi -EVALUATIONS SİSTEMİ-
     - Havuzun ilk günü 5 Evo puanıyla başlarsınız.
