@@ -4,13 +4,13 @@
 - Saat 16:00 başlar ve 20:00 biter.
 
 ## Sınav'a Giriş Nasıl Yapılır?
-    Sınav günü geldi çattı, Sınav'a girmek için yola koyuldunuz. Sınava girerken kimliğiniz ve bir kalem ve silgi ile giriş yapabilirsiniz.
+    Sınav günü geldi çattı, Sınav'a girmek için yola koyuldunuz. Sınava girerken kimliğiniz, bir kalem ve silgi ile giriş yapabilirsiniz.
     A4 kağıdınızı Staff'lar tarafından size temin edilecektir.
     Sınavınız Mac bilgisayalarda gerçekleşecektir.
 
     Saat 16:00 ve sınav başladı.
     
-        Login --> exam
+        Login --> exam 
         password --> exam
     yazmalısınız.
     
