@@ -1,6 +1,0 @@
-Credentials cache: API:36F11F58-53C9-438B-8597-F434EC48AF5C
-        Principal: mcelik@42ISTANBUL.COM.TR
-
-  Issued                Expires               Principal
-Sep  5 12:21:31 2021  Sep  5 22:21:31 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
-Sep  5 12:21:33 2021  Sep  5 22:21:31 2021  HTTP/student-storage.42istanbul.com.tr@42ISTANBUL.COM.TR
